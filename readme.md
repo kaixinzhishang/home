@@ -1,2 +1,2 @@
 大一下Java实践作业
-只用到了Java和MySQL数据库
+只用到了idea和MySQL数据库
